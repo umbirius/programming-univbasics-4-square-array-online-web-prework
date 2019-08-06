@@ -10,3 +10,6 @@ def square_array(numbers)
   
   p numbers
 end
+
+new numbers = [9,10,16,25]
+square_array(new_numbers)
