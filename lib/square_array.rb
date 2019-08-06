@@ -1,7 +1,7 @@
 
-array = [2,3,5,7]
+numbers = [1,2,3]
 
-def square_array(array)
+def square_array(numbers)
   counter =0
   while counter<array.length 
     array[counter]= array[counter]*array[counter]
